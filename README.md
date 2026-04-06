@@ -6,9 +6,9 @@
 ## Table of Contents (MITRE taxonomy)
 
 [Collection](#collection)  
-[Community](#community)  
 [Credential Access](#credential-access)  
 [Discovery](#discovery)  
+[PrivilegeEscalation](#privilegeescalation)  
 [Execution](#execution)  
 [BYOVD](#byovd)  
 [ProcessInjection](#processinjection)  
@@ -17,8 +17,6 @@
 
 ## Collection
 
-
-## Community
 
 
 ## Credential Access
