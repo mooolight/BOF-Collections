@@ -9,9 +9,9 @@
 [Community](#community)  
 [Credential Access](#credential-access)  
 [Discovery](#discovery)  
-[Execution](#execution)
-[BYOVD](#byovd)
-[ProcessInjection](#processinjection)
+[Execution](#execution)  
+[BYOVD](#byovd)  
+[ProcessInjection](#processinjection)  
 
 </div>
 
