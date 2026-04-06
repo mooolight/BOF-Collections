@@ -10,9 +10,7 @@
 [Credential Access](#credential-access)  
 [Discovery](#discovery)  
 [Execution](#execution)
-
 [BYOVD](#byovd)
-
 [ProcessInjection](#processinjection)
 
 </div>
