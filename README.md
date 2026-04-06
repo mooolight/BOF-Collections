@@ -33,5 +33,11 @@
 ## BYOVD
 
 
-## ProcessInjection
+## Process Injection
+
+
+## Active Directory
+
+
+
 
